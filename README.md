@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Javascript Project
+Your average javascript rock-paper-scissors project for "The Odin Project" fundamentals course.
